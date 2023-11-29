@@ -5,3 +5,5 @@ Technologies used
 1. Retrofit Library for calling the data from the API 
 2. GeoLocator for locating the current location of the user.
 3. Google play services library to implement the location functionalities.
+4. Kotlin Coroutines for performing api calling in the background thread without interfering the main UI thread.
+   
